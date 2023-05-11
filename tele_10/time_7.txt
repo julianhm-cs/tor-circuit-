@@ -1,0 +1,6 @@
+Base Circuit Time: 0.6309208050001871
+Circuit Extension Time: 0.4550345490001746
+Circuit Extension Time: 1.0212294020002446
+Circuit Completion Time: 1.4766638589999275
+Get Time: 7.454806413999904
+Total Response Time: 7.454857651999646
